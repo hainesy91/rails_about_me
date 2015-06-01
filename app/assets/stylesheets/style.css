@@ -1,0 +1,24 @@
+nav {
+  text-align: center;
+}
+
+li {
+
+  font-family: helvetica;
+  padding: 1%;
+   display: inline-block;
+}
+
+nav-link{
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-family: helvetica;
+}
+
+a {
+  text-decoration: none;
+}
+}
